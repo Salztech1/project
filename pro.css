@@ -1,0 +1,29 @@
+.bg-orange {
+    background-color: orange;
+    border-radius: 5%;
+    font-size: small;
+}
+
+.text {
+    font-size: 10px;
+}
+
+.element {
+    list-style-type: none;
+}
+
+.app {
+    margin-left: 500px;
+}
+
+.cap {
+    margin-bottom: 70px;
+}
+
+.lin {
+    margin-left: 100px;
+}
+
+.width {
+    width: 30%;
+}
